@@ -1,0 +1,20 @@
+.container {
+    border: 5px solid #ffcc5c;
+    display: flex;
+}
+  
+.item1 {
+    order: 1;
+}
+  
+.item2 {
+    order: 0;
+}
+  
+.item3 {
+    order: -1;
+}
+
+/*
+order: sıralamada bir elemanı geriye atmak ya da ön sıraya almak için kullanılır.
+*/

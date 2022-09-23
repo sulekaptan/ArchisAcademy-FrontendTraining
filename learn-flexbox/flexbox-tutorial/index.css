@@ -1,0 +1,45 @@
+.container {
+    border: 5px solid #ffcc5c;
+    display: flex; /*divleri yan yana getiriyor.*/
+    flex-direction: column;
+    flex-wrap: wrap;
+    /* justify-content: space-around; */
+    /* height: 100%;
+    align-items: center; */
+}
+/* .logout{
+    align-self: flex-start;
+}
+.home{
+    align-self: flex-end;
+} */
+/* 
+main axis: flexboxun ana eksenidir. ögeler bu doğrultuda hizalanır. 
+flex direction ile bu eksen yatay da dikey olarak değişebilir. column ya da row kullanılır.
+*/
+
+/* justify-content: flexbox içindekileri ana eksene göre hizalar.
+flex-start flex-end center space-around
+space-between space-evenly
+*/
+
+/* .logout{
+    margin-left: auto; 
+} */
+/*margin: istediğin ögeyi sağa veya sola hizalar.*/
+
+/* .container > div{
+    flex: 1;
+}
+.container  > .search{
+    flex: 2;
+} 
+*/
+
+/* flex-grow: büyüme faktörünü ayarlar.
+flex-shrink: büzülme faktörünü ayarlar. 
+*/
+
+/*
+flex-wrap: öğelerin kutuya nasıl sığacağını belirtmek için kullanılır.
+*/

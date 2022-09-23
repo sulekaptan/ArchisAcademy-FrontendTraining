@@ -1,0 +1,20 @@
+.container {
+    border: 5px solid #ffcc5c;
+    display: flex;
+}
+  
+.home {
+    /*flex-shrink: 1;
+    /*küçülme oranı*/
+    flex: 1 1 200px;
+    
+}
+  
+.logout {
+    flex: 1 1 200px;
+}
+
+/*
+flex: 1 1 0;
+flex: flex-grow flex-shrink flex-basis;
+*/
