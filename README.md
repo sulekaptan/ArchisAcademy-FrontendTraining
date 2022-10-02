@@ -1,1 +1,4 @@
 # ArchisAcademy-FrontendTraining
+
+#### Links
+* https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent
