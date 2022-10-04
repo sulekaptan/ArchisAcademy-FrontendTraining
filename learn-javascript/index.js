@@ -40,14 +40,25 @@ function save(){
 // console.log(100 + "100") // "100100"
 
 //modül 1'de öğrenilenler
-// - script tag
-// - variables
-// - numbers
-// - strings
-// - console.log()
-// - functions
-// - the DOM
-// - getElementById()
-// - innerText
-// - textContent
-// - onclick
+// script tag
+// variables
+// numbers
+// strings
+// console.log()
+// functions
+// the DOM
+// getElementById()
+// innerText
+// textContent
+// onclick
+
+//modül 4'te öğrenilenler
+// arrays
+// objects
+// booleans
+// if else statements
+// comparison operators
+// logical operators
+// for loops
+// The Math object
+// return statements
